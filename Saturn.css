@@ -1,0 +1,47 @@
+body{
+    background-image:url(http://i.huffpost.com/gen/1210668/images/o-THREE-ALIEN-PLANETS-facebook.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    text-align:center;
+    
+}
+
+#JackMoon{
+    height:150px;
+    width:150px;
+    position:absolute;
+    bottom:50px;
+}
+
+
+
+h1{
+    color:#00FFFF;
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+audio { 
+   display:none;
+}
+
+
+#spaceship{
+    width:200px;
+    height:100px;
+    position:absolute;
+    left:700px;
+    bottom:0;
+    
+}
+#obstacle{
+    width:110px;
+    position:absolute;
+    bottom:50px;
+    right:0px;
+}
+
+
+.winner{
+    display:none;
+}
